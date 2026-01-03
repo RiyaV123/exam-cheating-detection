@@ -1,4 +1,5 @@
-# AI Exam Cheating Detection System
+# AI-based online exam proctoring system with cheating probability & explainability
+
 
 An AI-based online exam proctoring system that detects cheating behavior in real time using computer vision and generates a cheating probability score with explainability.
 
